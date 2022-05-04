@@ -10,7 +10,7 @@
 
 ## Gif
 
-![alt](https://github.com/Zalexanninev15/RunGoblinRun/blob/main/test.gif?raw=true)
+![alt](https://github.com/Zalexanninev15/RunGoblinRun/blob/main/test.gif)
 
 ## Description
 Dinosaur analogue for Chrome, but with a goblin in the title role and dynamites as cactus 😅

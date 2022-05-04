@@ -1,4 +1,4 @@
-# Run Goblin, Run! | 🔥[Play](https://zalexanninev15.github.io/RunGoblinRun)
+# Run Goblin, Run! | 🔥[Play](https://zalexanninev15.github.io/RunGoblinRun/)
 
 [![](https://img.shields.io/badge/platforms-All_with_Internet-27282D.svg)](https://github.com/Zalexanninev15/RunGoblinRun)
 [![](https://img.shields.io/badge/written_on-Java_Script-E34F26.svg?logo=javascript)](https://github.com/Zalexanninev15/RunGoblinRun)

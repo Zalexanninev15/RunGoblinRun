@@ -1,0 +1,62 @@
+.game {
+    width: 600px;
+    height: 210px;
+    border-bottom: 1px solid #000;
+    margin: auto;
+}
+
+#goblin {
+    width: 50px;
+    height: 60px;
+    background-image: url(images/goblin.png);
+    background-size: 50px 60px;
+    position: relative;
+    top: 150px;
+}
+
+#dynamite {
+    width: 50px;
+    height: 60px;
+    background-image: url(images/dynamite.png);
+    background-size: 50px 60px;
+    position: relative;
+    top: 89px;
+    left: 450px;
+    animation: dynamiteMove 1s infinite linear;
+}
+
+@keyframes dynamiteMove {
+    0% {
+        left: 500px;
+    }
+
+    100% {
+        left: -20px;
+    }
+}
+
+.goblinJump {
+    animation: goblinJump 0.3s linear;
+}
+
+@keyframes goblinJump {
+    0% {
+        top: 140px;
+    }
+
+    30% {
+        top: 80px;
+    }
+
+    50% {
+        top: 50px;
+    }
+
+    80% {
+        top: 80px;
+    }
+
+    100% {
+        top: 140px;
+    }
+}
